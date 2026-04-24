@@ -22,7 +22,7 @@ class tsk:
     alias       = ["tsk", "the guy who ships at 3AM", "that one dev"]
     languages   = ["Python", "Java", "JS", "...and whatever the job needs"]
     mindset     = "If it compiles, it's art. If it doesn't, it's a challenge."
-    currently   = "Building. Always building."
+    currently   = "Class 12 Science | Building while studying. No breaks."
 
     def introduce(self):
         return "I don't just write code — I architect solutions that scale."
@@ -36,6 +36,7 @@ class tsk:
 - 🔥 I write code that works. Not code that just **looks** like it works.
 - 🧠 Fast learner. Faster builder. Fastest debugger in the room.
 - 🌐 Comfortable across the full stack — from dumb scripts to distributed systems.
+- 📚 Currently surviving **Class 12 Science** while simultaneously shipping projects. Most people can't handle one. I do both.
 - 🤝 Open to collabs, freelance, and anything that solves a real problem.
 
 ---
