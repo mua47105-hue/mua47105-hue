@@ -1,22 +1,16 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║         WARNING: You've entered TSK's domain.        ║
-║         Proceed with curiosity. Or don't.            ║
-║         Either way, I'm already 3 steps ahead.       ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=800&color=FF0055&center=true&vCenter=true&width=700&lines=WARNING%3A+You've+entered+TSK's+domain.;Proceed+with+curiosity.+Or+don't.;Either+way%2C+I'm+already+3+steps+ahead." alt="Warning" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=800&color=FF0055&center=true&vCenter=true&width=700&lines=I+am+tsk.;I+don't+write+code+—+I+summon+it.;Every+language+is+my+native+tongue.;Sleep+is+a+beta+feature.+I+patched+it+out.;The+terminal+is+my+canvas.+The+bug+is+the+art." alt="Typing" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=I+am+tsk.;I+don't+write+code+-+I+summon+it.;Every+language+is+my+native+tongue.;Sleep+is+a+beta+feature.+I+patched+it+out.;The+terminal+is+my+canvas.+The+bug+is+the+art." alt="Typing" />
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 ## 🧬 init tsk
 
@@ -33,6 +27,8 @@ class tsk:
     def sleep(self):
         raise NotImplementedError("Feature not supported")
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -85,17 +81,12 @@ class tsk:
 
 <div align="center">
 
-```
-         ████████╗███████╗██╗  ██╗
-            ██╔══╝██╔════╝██║ ██╔╝
-            ██║   ███████╗█████╔╝ 
-            ██║   ╚════██║██╔═██╗ 
-            ██║   ███████║██║  ██╗
-            ╚═╝   ╚══════╝╚═╝  ╚═╝
-```
-
 <img src="https://komarev.com/ghpvc/?username=mua47105-hue&style=for-the-badge&color=FF0055&label=MINDS+BLOWN" />
 
+<br/><br/>
+
 *"The code works. Don't ask why."*
+
+**— tsk**
 
 </div>
