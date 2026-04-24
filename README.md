@@ -82,7 +82,8 @@ class tsk:
 > *Open to opportunities, collaborations, and conversations that matter.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-mua47105--hue-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mua47105-hue)
-[![Email](https://img.shields.io/badge/Email-Hit%20Me%20Up-FF0055?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-mua47105%40gmail.com-FF0055?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mua47105@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-npx__tsk__dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/npx_tsk_dev)
 
 </div>
 
