@@ -1,40 +1,48 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=800&color=FF0055&center=true&vCenter=true&width=700&lines=WARNING%3A+You've+entered+TSK's+domain.;Proceed+with+curiosity.+Or+don't.;Either+way%2C+I'm+already+3+steps+ahead." alt="Warning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=800&color=FF0055&center=true&vCenter=true&width=750&lines=Hey.+I'm+Tohid+Shaikh.;aka+tsk.;I+don't+write+code+-+I+engineer+solutions.;Every+language.+Every+stack.+Zero+excuses.;Available+for+work.+Not+for+nonsense." alt="Typing" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=I+am+tsk.;I+don't+write+code+-+I+summon+it.;Every+language+is+my+native+tongue.;Sleep+is+a+beta+feature.+I+patched+it+out.;The+terminal+is+my+canvas.+The+bug+is+the+art." alt="Typing" />
+[![GitHub followers](https://img.shields.io/github/followers/mua47105-hue?style=for-the-badge&color=FF0055&labelColor=0d1117&logo=github)](https://github.com/mua47105-hue)
+![Profile Views](https://komarev.com/ghpvc/?username=mua47105-hue&style=for-the-badge&color=FF0055&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
-## 🧬 init tsk
+## 🧬 Who is tsk?
 
 ```python
 class tsk:
-    name       = "Tohid Shaikh"
-    alias      = ["tsk", "the guy who ships at 3AM", "that one dev"]
-    languages  = ["Python", "Java", "JS", "whatever pays", "whatever doesn't"]
-    mindset    = "If it compiles, it's art. If it doesn't, it's a challenge."
-    
+    name        = "Tohid Shaikh"
+    role        = "Software Developer"
+    alias       = ["tsk", "the guy who ships at 3AM", "that one dev"]
+    languages   = ["Python", "Java", "JS", "...and whatever the job needs"]
+    mindset     = "If it compiles, it's art. If it doesn't, it's a challenge."
+    currently   = "Building. Always building."
+
     def introduce(self):
-        return "I don't write code. I negotiate with machines."
-    
+        return "I don't just write code — I architect solutions that scale."
+
     def sleep(self):
-        raise NotImplementedError("Feature not supported")
+        raise NotImplementedError("Feature not supported in production")
 ```
 
 <br clear="right"/>
+
+- 🔥 I write code that works. Not code that just **looks** like it works.
+- 🧠 Fast learner. Faster builder. Fastest debugger in the room.
+- 🌐 Comfortable across the full stack — from dumb scripts to distributed systems.
+- 🤝 Open to collabs, freelance, and anything that solves a real problem.
 
 ---
 
 ## ⚔️ The Arsenal
 
-> *"A samurai doesn't choose his sword. He masters all of them."*
+> *"A craftsman doesn't blame his tools — he masters them all."*
 
 <div align="center">
 
@@ -44,7 +52,7 @@ class tsk:
 
 ---
 
-## 💀 The Stats (They Fear These Numbers)
+## 📊 By The Numbers
 
 <div align="center">
 
@@ -59,7 +67,7 @@ class tsk:
 
 ---
 
-## 🐍 My Commits. Visualized. As a Snake. Obviously.
+## 🐍 Contribution Trail
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/mua47105-hue/mua47105-hue/output/github-contribution-grid-snake-dark.svg"/>
@@ -67,13 +75,14 @@ class tsk:
 
 ---
 
-## 📡 Ping Me
+## 📡 Let's Connect
 
 <div align="center">
 
-> *"I respond faster to GitHub issues than to texts."*
+> *Open to opportunities, collaborations, and conversations that matter.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40mua47105--hue-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mua47105-hue)
+[![GitHub](https://img.shields.io/badge/GitHub-mua47105--hue-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mua47105-hue)
+[![Email](https://img.shields.io/badge/Email-Hit%20Me%20Up-FF0055?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
@@ -81,11 +90,7 @@ class tsk:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mua47105-hue&style=for-the-badge&color=FF0055&label=MINDS+BLOWN" />
-
-<br/><br/>
-
-*"The code works. Don't ask why."*
+*"The best code is the code that ships. Everything else is philosophy."*
 
 **— tsk**
 
