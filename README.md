@@ -36,7 +36,7 @@ class tsk:
 - 🔥 I write code that works. Not code that just **looks** like it works.
 - 🧠 Fast learner. Faster builder. Fastest debugger in the room.
 - 🌐 Comfortable across the full stack — from dumb scripts to distributed systems.
-- 📚 Currently surviving **Class 12 Science** while simultaneously shipping projects. Most people can't handle one. I do both.
+- 📚 **Class 12 Science student** by day, developer by night — while most people my age are figuring out what to do with their life, I'm already building it. Textbooks in one hand, terminal in the other. Not many can say that.
 - 🤝 Open to collabs, freelance, and anything that solves a real problem.
 
 ---
