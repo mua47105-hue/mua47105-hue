@@ -4,6 +4,12 @@
 
 <br/>
 
+<a href="https://github.com/mua47105-hue">
+<img src="https://raw.githubusercontent.com/mua47105-hue/mua47105-hue/main/profile-image.jpg" alt="Profile" width="150" style="border-radius:50%;border:3px solid #FF0055;"/>
+</a>
+
+<br/><br/>
+
 [![GitHub followers](https://img.shields.io/github/followers/mua47105-hue?style=for-the-badge&color=FF0055&labelColor=0d1117&logo=github)](https://github.com/mua47105-hue)
 ![Profile Views](https://komarev.com/ghpvc/?username=mua47105-hue&style=for-the-badge&color=FF0055&label=PROFILE+VIEWS)
 
