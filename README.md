@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/mua47105-hue">
-<img src="https://raw.githubusercontent.com/mua47105-hue/mua47105-hue/main/profile-image.jpg" alt="Profile" width="220" style="border-radius:50%;border:3px solid #FF0055;"/>
+<img src="https://raw.githubusercontent.com/mua47105-hue/mua47105-hue/main/profile-image.jpg" alt="Profile" width="350" style="border-radius:20px;border:4px solid #FF0055;filter:drop-shadow(0 0 20px rgba(255,0,85,0.6)) drop-shadow(0 0 40px rgba(255,0,85,0.4));transition:all 0.3s ease;object-fit:cover;" onmouseover="this.style.filter='drop-shadow(0 0 30px rgba(255,0,85,0.9)) drop-shadow(0 0 60px rgba(255,0,85,0.6))'" onmouseout="this.style.filter='drop-shadow(0 0 20px rgba(255,0,85,0.6)) drop-shadow(0 0 40px rgba(255,0,85,0.4))'"/>
 </a>
 
 <br/><br/>
